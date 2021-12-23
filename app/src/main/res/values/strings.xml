@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Donation2.0</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="donateTitle">Welcome homer</string>
+    <string name="donateSubtitle">Please Give Generously</string>
+    <string name="donateButton">DONATE</string>
+    <string name="paypal">Paypal</string>
+    <string name="direct">Direct</string>
+    <string name="menuReport">Report</string>
+    <string name="reportTitle">Report</string>
+    <string name="amountTotal">Total so far</string>
+    <string name="defaultAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+
+    <string name="menuReset">Reset</string>
+
+</resources>
